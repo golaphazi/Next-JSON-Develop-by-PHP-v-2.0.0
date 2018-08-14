@@ -1,11 +1,11 @@
 <?php namespace Simple\JSONs;
 /**
- * Next JSON 
+ * PHP Next JSON API
  * verson V- 2.0.0 or V2
  * An open source application development JSON for PHP
  *
  
- * Copyright (c) 2017 - 2018, Next IT Solutions by Golap Hazi - golaphazi@gmail.com
+ * Copyright (c) 2017 - 2018, HOTLancer.com by Golap Hazi - golaphazi@gmail.com
  * skype and facebook: golap.hazi
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -28,9 +28,9 @@
  *
  * @package	Next JSON
  * @author	Next framework Team
- * @copyright	Copyright (c) 2015 - 2016, Next IT Solutions by Golap Hazi - golaphazi@gmail.com
+ * @copyright	Copyright (c) 2015 - 2016, HOTLancer.com by Golap Hazi - golaphazi@gmail.com
  * skype and facebook: golap.hazi(golap.smlmhs.edu.bd)
- * @copyright	Copyright (c) 2015 - 2016, Next IT Solutions by Golap Hazi - golaphazi@gmail.com
+ * @copyright	Copyright (c) 2015 - 2016, HOTLancer.com by Golap Hazi - golaphazi@gmail.com
  * skype and facebook: golap.hazi
  * 
  * @since	Version 1.0.0
